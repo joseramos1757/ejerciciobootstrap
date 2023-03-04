@@ -500,18 +500,20 @@ a:focus {
 
 /* end footer section*/
 div{
-  text-align: center;
+  
   background-color: rgb(255, 255, 255);
   
 } 
 h1{
-  color: #080808;
+  color: #000000;
   font-weight: normal;
   font-size: 40px;
   font-family: Arial sans-serif;
   text-transform: uppercase;
+  text-align: center;
 }
 
-body {
-
+.productos1{
+  text-align: center;
+  display: flex;
 }
