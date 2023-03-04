@@ -1,7 +1,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   color: #000000;
-  background-color: #ffffff;
+  background-color: rgb(255, 255, 255);
 }
 
 .layout_padding {
@@ -313,9 +313,6 @@ a:focus {
 
 
 
-
-
-
 /* tasty section */
 
 .tasty_section {
@@ -504,7 +501,7 @@ a:focus {
 /* end footer section*/
 div{
   text-align: center;
-  background-color: rgb(107, 107, 231);
+  background-color: rgb(255, 255, 255);
   
 } 
 h1{
@@ -513,4 +510,8 @@ h1{
   font-size: 40px;
   font-family: Arial sans-serif;
   text-transform: uppercase;
+}
+
+body {
+
 }
