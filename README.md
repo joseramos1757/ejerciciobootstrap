@@ -1,6 +1,7 @@
 # Elite 50+1
 PRACTICA DE BOOTSTRAP
-Jesus Flores Jaillita -
+Jesus Flores Jaillita 
+
 Sergio Estrada Arellano -
 Jose Americo Ramos Teran -
 Ivan Ramos Torrez -
