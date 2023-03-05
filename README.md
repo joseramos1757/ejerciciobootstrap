@@ -9,6 +9,6 @@ Jose Americo Ramos Teran (Secretario)
 
 Ivan Ramos Torrez 
 
-Javier Limachi Maita 
+Javier Federico Limachi Matta 
 
 Jorge Colque Belmonte
