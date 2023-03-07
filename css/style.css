@@ -83,7 +83,7 @@ body {
   height: auto;
 }
 
-.header_section {}
+
 
 .header_section .container-fluid {
   padding-right: 25px;
@@ -212,7 +212,7 @@ a:focus {
   background-repeat: no-repeat;
 }
 
-.slider_item-container .slider_item-detail {}
+
 
 .slider_item-detail h1 {
   font-weight: 700;
@@ -502,7 +502,7 @@ a:focus {
 
 /* end footer section*/
 #galeria .col-lg-4 {
-  margin 0 !important;
+  
   padding: 25px;
 }
 
