@@ -1,0 +1,16 @@
+/* Define standard variables and values for website */
+$bgcolor: rgb(197, 203, 41);
+$textcolor: darkblue;
+$fontsize: 18px;
+$textcolor: darkblue;
+$tamanoletra: large;
+/* Use the variables */
+body {
+  background-color: $bgcolor;
+  color: $textcolor;
+  font-size: $fontsize;
+}                  
+p{
+  color: $textcolor;
+  font-size: $tamanoletra;
+}
