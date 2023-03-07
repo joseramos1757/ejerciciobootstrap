@@ -2,6 +2,8 @@ body {
   font-family: 'Poppins', sans-serif;
   color: #000000;
   background-color: rgb(255, 255, 255);
+
+  
 }
 
 .layout_padding {
@@ -513,4 +515,6 @@ a:focus {
 #galeria img:hover {
   border: 5px solid #f7f7f7;
 }
+
+
 
