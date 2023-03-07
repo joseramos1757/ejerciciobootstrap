@@ -514,3 +514,8 @@ a:focus {
   border: 5px solid #f7f7f7;
 }
 
+.inverse {
+  background-color: base.$primary-color;
+  color: white;
+}
+
