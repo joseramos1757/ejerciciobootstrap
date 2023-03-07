@@ -2,6 +2,8 @@ body {
   font-family: 'Poppins', sans-serif;
   color: #000000;
   background-color: rgb(255, 255, 255);
+
+  
 }
 
 .layout_padding {
@@ -514,8 +516,5 @@ a:focus {
   border: 5px solid #f7f7f7;
 }
 
-.inverse {
-  background-color: base.$primary-color;
-  color: white;
-}
+
 
