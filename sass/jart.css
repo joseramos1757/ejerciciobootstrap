@@ -4,4 +4,19 @@ body {
 
 h1 {
   color: blue;
-}/*# sourceMappingURL=jart.css.map */
+}
+
+@media (min-width: 768px) and (max-width: 950px) {
+  h1 {
+    color: red;
+  }
+}
+h2 {
+  color: red;
+}
+
+h3 {
+  color: aqua;
+}
+
+/*# sourceMappingURL=jart.css.map */
