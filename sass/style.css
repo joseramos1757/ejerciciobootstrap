@@ -2,17 +2,26 @@
   background-color: rgb(174, 198, 233);
 }
 
-breakpoints {
-  sm: 540px;
-  md: 768px;
-  lg: 1024px;
-}
-
 @media (min-width: 768px) {
   h1 {
     color: blue;
   }
 }
-h1 {
+@media (min-width: 768px) and (max-width: 950px) {
+  h1 {
+    color: red;
+  }
+}
+h2 {
   color: red;
+}
+
+h3 {
+  color: aqua;
+}
+
+@media (min-width: 768px) and (max-width: 950px) {
+  h1 {
+    color: red;
+  }
 }/*# sourceMappingURL=style.css.map */

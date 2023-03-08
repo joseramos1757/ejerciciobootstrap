@@ -4,11 +4,7 @@
   .container{
     background-color: rgb(174, 198, 233);
   }
-  breakpoints {
-    sm: 540px;
-    md: 768px;
-    lg: 1024px;
-  }
+
 
       $breakpoint-tablet: 768px;
     @media (min-width: $breakpoint-tablet) {
@@ -16,7 +12,23 @@
         color:blue;
       }
     }
+   
+
+    @media (min-width: 768px) and (max-width: 950px) {
+        h1 {
+          color: red;
+        }
+      }
+      h2 {
+        color: red;
+      }
+      
+      h3 {
+        color: aqua;
+      }
+      $breakpoint-tablet: 450 px;
+@media (min-width: 768px) and (max-width: 950px) {
     h1{
         color: red;
-    }
-
+    } 
+}
