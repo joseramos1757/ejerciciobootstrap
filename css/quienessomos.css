@@ -1,0 +1,21 @@
+/* Define standard variables and values for website */
+/* Use the variables */
+body {
+  background-color: #c5cb29;
+  color: darkblue;
+  font-size: 18px; }
+
+p {
+  color: darkblue;
+  font-size: large; }
+
+h1 {
+  color: blue; }
+
+@media (min-width: 768px) and (max-width: 950px) {
+  h1 {
+    color: red; } }
+H2 {
+  text-align: center; }
+
+/*# sourceMappingURL=quienessomos.css.map */
