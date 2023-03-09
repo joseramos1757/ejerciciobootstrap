@@ -11,4 +11,17 @@ p {
   font-size: large;
 }
 
+@media (min-width: 768px) and (max-width: 950px) {
+  h1 {
+    color: red;
+  }
+}
+h2 {
+  color: red;
+}
+
+h3 {
+  color: aqua;
+}
+
 /*# sourceMappingURL=productos.css.map */
