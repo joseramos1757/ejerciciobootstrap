@@ -12,6 +12,9 @@ p {
 h1 {
   color: blue; }
 
+@media (min-width: 768px) and (max-width: 950px) {
+  h1 {
+    color: red; } }
 H2 {
   text-align: center; }
 
