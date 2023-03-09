@@ -15,16 +15,9 @@ p{
   font-size: $tamanoletra;
 }
 
-$breakpoint-tablet: 450 px;
 @media (min-width: 450px) and (max-width: 600px) {
     h1{
         color: red;
     } 
 }
 
-h2{
-    color: red;
-}
-h3{
-    color: aqua;
-}
