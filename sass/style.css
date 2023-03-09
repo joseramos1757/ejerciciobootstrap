@@ -2,11 +2,16 @@
   background-color: rgb(174, 198, 233);
 }
 
+
 @media (min-width: 768px) {
   h1 {
     color: blue;
   }
 }
+h1 {
+  color: red;
+}
+
 @media (min-width: 768px) and (max-width: 950px) {
   h1 {
     color: red;
@@ -18,10 +23,4 @@ h2 {
 
 h3 {
   color: aqua;
-}
-
-@media (min-width: 768px) and (max-width: 950px) {
-  h1 {
-    color: red;
-  }
 }/*# sourceMappingURL=style.css.map */
