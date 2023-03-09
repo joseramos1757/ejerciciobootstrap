@@ -16,7 +16,7 @@ p{
 }
 
 $breakpoint-tablet: 450 px;
-@media (min-width: 768px) and (max-width: 950px) {
+@media (min-width: 450px) and (max-width: 600px) {
     h1{
         color: red;
     } 
