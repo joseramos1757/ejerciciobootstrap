@@ -4,6 +4,7 @@ $textcolor: darkblue;
 $fontsize: 18px;
 $textcolor: darkblue;
 $tamanoletra: large;
+$color-texto: blue;
 /* Use the variables */
 body {
   background-color: $bgcolor;
@@ -13,4 +14,11 @@ body {
 p{
   color: $textcolor;
   font-size: $tamanoletra;
+}
+h1{
+  color: $color-texto;
+} 
+
+H2{
+  text-align: center;
 }

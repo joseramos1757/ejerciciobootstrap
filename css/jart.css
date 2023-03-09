@@ -1,0 +1,16 @@
+body {
+  background-color: darkgray; }
+
+h1 {
+  color: blue; }
+
+@media (min-width: 768px) and (max-width: 950px) {
+  h1 {
+    color: red; } }
+h2 {
+  color: red; }
+
+h3 {
+  color: aqua; }
+
+/*# sourceMappingURL=jart.css.map */

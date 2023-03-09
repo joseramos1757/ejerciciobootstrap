@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,sDAAsD;AAOtD,uBAAuB;AACvB,IAAK;EACH,gBAAgB,EARR,OAAiB;EASzB,KAAK,EANK,QAAQ;EAOlB,SAAS,EARA,IAAI;;AAUf,CAAC;EACC,KAAK,EAVK,QAAQ;EAWlB,SAAS,EAVG,KAAK;;AAYnB,EAAE;EACA,KAAK,EAZO,IAAI;;AAelB,EAAE;EACA,UAAU,EAAE,MAAM",
+"sources": ["../sass/quienessomos.scss"],
+"names": [],
+"file": "quienessomos.css"
+}
